@@ -19,7 +19,7 @@
 4. Get the data ---+
 5. Discover and Visualize the data to gain Insights
 6. Prepare the data for machine learning algos ---+
-7. Select and train the model
+7. Select and train the model ---+
 8. Fine tune the model
 
 
